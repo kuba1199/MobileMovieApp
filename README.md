@@ -1,2 +1,2 @@
 ﻿# MobileMovieApp
-To open file you need to type in terminal "npm start". 
+To open file you need to type in terminal "npm install". 
